@@ -19,9 +19,11 @@ Product Owner:
  ---
    Scrum Master:
  [Ganapuram Sai Kumar](https://github.com/SaiKumar249)
- ![Sai Kumar](https://user-images.githubusercontent.com/77635770/119560983-3c40e100-bd6a-11eb-8c99-2131eaa32b32.png)
+![Sai Kumar](https://user-images.githubusercontent.com/77635770/119561844-4adbc800-bd6b-11eb-96dc-68d8467c800c.png)
  ---
    Developer: 
  [Chaganti Sumant](https://github.com/sumant52)
 ![ChagantiSumant](https://user-images.githubusercontent.com/77635770/119560258-53330380-bd69-11eb-8708-3d81536a7027.jpg)
+---
+
 
