@@ -17,8 +17,8 @@ Product Owner:
  ![]()
  Scrum Master:
  [Ganapuram Sai Kumar](https://github.com/SaiKumar249)
-  ![](SaiKumar.png)
+  ![](C:\Users\S542408\Desktop\1ava\pm-s03-g05-project\SaiKumar.png)
  Developer: 
  [Chaganti Sumant](https://github.com/sumant52)
-![](ChangantiSumant.jpg)
+![](C:\Users\S542408\Desktop\1ava\pm-s03-g05-project\ChagantiSumant.jpg)
 
