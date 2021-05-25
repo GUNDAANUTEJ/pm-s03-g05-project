@@ -10,8 +10,8 @@
 * Budget
 
 ### Our Project
-* Digital Authorization Technology
-* 
+* Digital online Gaming Connect.
+* Here int his platform people from different locations can connect for online gaming purpose. Also can create groups as per requirement. 
 ### Our Team
 Product Owner:
  [Gunda Sai Naga Anu Teja](https://github.com/GUNDAANUTEJ)
@@ -25,5 +25,7 @@ Product Owner:
  [Chaganti Sumant](https://github.com/sumant52)  <br>
   ![ChagantiSumant](https://user-images.githubusercontent.com/77635770/119560258-53330380-bd69-11eb-8708-3d81536a7027.jpg) 
 ---
+### Project Charter
+
 
 
