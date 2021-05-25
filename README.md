@@ -14,10 +14,10 @@
 ### Our Team
 Product Owner:
  [Gunda Sai Naga Anu Teja](https://github.com/GUNDAANUTEJ)
- ![](C:\Users\S542408\Downloads\ChangantiSumant.jpg)
+ ![](C:/Users/S542408/Downloads/ChangantiSumant.jpg)
  Scrum Master:
  [Ganapuram Sai Kumar](https://github.com/SaiKumar249)
-  ![](C:\Users\S542408\Downloads\SaiKumar.png)
+  ![](C:/Users/S542408/Downloads/SaiKumar.png)
  Developer: 
  [Chaganti Sumant](https://github.com/sumant52)
 
