@@ -26,6 +26,7 @@ Product Owner:
   ![ChagantiSumant](https://user-images.githubusercontent.com/77635770/119560258-53330380-bd69-11eb-8708-3d81536a7027.jpg) 
 ---
 ### Project Charter
+ [Project Charter link](https://github.com/GUNDAANUTEJ/pm-s03-g05-project/blob/main/markdown/CHARTER.md)
 
 
 
