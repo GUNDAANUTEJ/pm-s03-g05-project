@@ -23,7 +23,7 @@ Product Owner:
  ---
   Developer: 
  [Chaganti Sumant](https://github.com/sumant52)  <br>
-  ![ChagantiSumant](https://user-images.githubusercontent.com/77635770/119560258-53330380-bd69-11eb-8708-3d81536a7027.jpg)
+  ![ChagantiSumant](https://user-images.githubusercontent.com/77635770/119560258-53330380-bd69-11eb-8708-3d81536a7027.jpg) 
 ---
 
 
