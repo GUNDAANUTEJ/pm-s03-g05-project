@@ -10,8 +10,8 @@
 * Budget
 
 ### Our Project
-*
-*
+* Digital Authorization Technology
+* 
 ### Our Team
 Product Owner:
  [Gunda Sai Naga Anu Teja](https://github.com/GUNDAANUTEJ)
