@@ -1,5 +1,5 @@
 
-# Digital online Gaming Connect
+# Digital Online Gaming Connect
 ## Table of contents
 * Our Project
 * Our Team
