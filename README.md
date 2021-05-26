@@ -1,12 +1,12 @@
 
-# Digital Online Gaming Connect
-## Table of contents
-* Our Project
-* Our Team
-* Project Charter
-* Scope
-* Schedule
-* Budget
+# Team Amigos
+* ## Table of contents
+  * Our Project
+  * Our Team
+  * Project Charter
+  * Scope
+  * Schedule
+  * Budget
 
 ## Our Project
 * Digital online Gaming Connect.
