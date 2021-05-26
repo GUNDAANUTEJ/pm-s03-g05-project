@@ -26,7 +26,28 @@ Product Owner:
   ![ChagantiSumant](https://user-images.githubusercontent.com/77635770/119560258-53330380-bd69-11eb-8708-3d81536a7027.jpg) 
 ---
 ### Project Charter
- [Project Charter link](https://github.com/GUNDAANUTEJ/pm-s03-g05-project/blob/main/markdown/CHARTER.md)
+ * [Project Charter link](https://github.com/GUNDAANUTEJ/pm-s03-g05-project/blob/main/markdown/CHARTER.md)
+---
+### Scope
+#### Work Breakdown Structure
+#### 1. Initiating
+
+#### 2.Planning
+
+#### 3. Execution
+
+#### 4. Monitering and Controlling
+
+#### 5. Closing
+
+### Schedule
+* Start Date : 06/02/2021
+* End Date :   09/03/2021
+* Duration : 3 months
+
+### Budget
+* Yet to decide
+
 
 
 
