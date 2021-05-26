@@ -1,12 +1,12 @@
 
-# Digital Online Gaming Connect
-## Table of contents
-* Our Project
-* Our Team
-* Project Charter
-* Scope
-* Schedule
-* Budget
+# Team Amigos
+* ## Table of contents
+  * Our Project
+  * Our Team
+  * Project Charter
+  * Scope
+  * Schedule
+  * Budget
 
 ## Our Project
 * Digital online Gaming Connect.
@@ -17,11 +17,11 @@ Product Owner:
  [Gunda Sai Naga Anu Teja](https://github.com/GUNDAANUTEJ)
  ![Anu Tej](https://user-images.githubusercontent.com/77635770/119561184-7c07c880-bd6a-11eb-872e-35c534fe8d19.jpg)
  ---
-   Scrum Master:
+Scrum Master:
  [Ganapuram Sai Kumar](https://github.com/SaiKumar249)
 ![Sai Kumar](https://user-images.githubusercontent.com/77635770/119561844-4adbc800-bd6b-11eb-96dc-68d8467c800c.png)
  ---
-  Developer: 
+ Developer: 
  [Chaganti Sumant](https://github.com/sumant52)  <br>
   ![ChagantiSumant](https://user-images.githubusercontent.com/77635770/119560258-53330380-bd69-11eb-8708-3d81536a7027.jpg) 
   <br>
@@ -50,12 +50,12 @@ Product Owner:
 ### 3. Execution
 * Set up a meeting with the human resources and explain the scope of the project
 *	Start development
-*	Scrum of scrums
 *	Unit Testing
 *	Sprint meetings
 *	Drops
 ### 4. Monitering and Controlling
 *	Integration Testing
+*	Scrum of scrums
 *	Quality Analyste testing
 *	Bug fixes
 ### 5. Closing
