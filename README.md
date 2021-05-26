@@ -1,6 +1,5 @@
 
-# pm-s03-g05-project
-# Project Name
+# Digital online Gaming Connect
 ## Table of contents
 * Our Project
 * Our Team
@@ -11,7 +10,7 @@
 
 ## Our Project
 * Digital online Gaming Connect.
-* Here int his platform people from different locations can connect for online gaming purpose. Also can create groups as per requirement. 
+* Here in this platform people from different locations can connect and communicate for online gaming purpose. Also can create groups as per requirement. 
 
 ## Our Team
 Product Owner:
@@ -33,14 +32,36 @@ Product Owner:
 ## Scope
 ### Work Breakdown Structure
 ### 1. Initiating
-
+* Requirement gathering
+*	List out main functionalities
+* List out additional functionalities
+*	List out key features
+*	Architecture 
+*	Meetings
 ### 2.Planning
-
+* Budget planning
+*	Choosing the technologies
+*	Estimating the resources
+*	Plan the project schedule
+*	Set goals
+*	Define the mvp
+*	Plan sprints
+*	Divide the functionalities and features into user stories
 ### 3. Execution
-
+* Set up a meeting with the human resources and explain the scope of the project
+*	Start development
+*	Scrum of scrums
+*	Unit Testing
+*	Sprint meetings
+*	Drops
 ### 4. Monitering and Controlling
-
+*	Integration Testing
+*	Quality Analyste testing
+*	Bug fixes
 ### 5. Closing
+* Deployement
+*	Performance Testing
+*	Regression Testing
 
 ## Schedule
 * Start Date : 06/02/2021
