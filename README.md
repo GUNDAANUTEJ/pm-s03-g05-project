@@ -50,12 +50,12 @@ Product Owner:
 ### 3. Execution
 * Set up a meeting with the human resources and explain the scope of the project
 *	Start development
-*	Scrum of scrums
 *	Unit Testing
 *	Sprint meetings
 *	Drops
 ### 4. Monitering and Controlling
 *	Integration Testing
+*	Scrum of scrums
 *	Quality Analyste testing
 *	Bug fixes
 ### 5. Closing
