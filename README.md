@@ -65,8 +65,8 @@ Product Owner:
 
 ## Schedule
 * Start Date : 06/02/2021
-* End Date :   09/03/2021
-* Duration : 3 months
+* End Date :   10/03/2021
+* Duration : 4 months
 
 ## Budget
 * Yet to decide
