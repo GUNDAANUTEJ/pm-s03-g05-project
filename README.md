@@ -10,7 +10,7 @@
 
 ## Our Project
 * #### Project Name: Amigos Gaming Connect.
-* Here in this platform people from different locations can connect and communicate for online gaming purpose. Also can create groups as per requirement. It is an user friendly application.
+* This is a platform where people can find In game names and Ids of different players. It is an user friendly application.
 
 ## Our Team
 Product Owner:
