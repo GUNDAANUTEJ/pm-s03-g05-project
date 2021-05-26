@@ -64,9 +64,9 @@ Scrum Master:
 *	Regression Testing
 
 ## Schedule
-* Start Date : 06/02/2021
-* End Date :   10/03/2021
-* Duration : 4 months
+* Start Date : 05/31/2021
+* End Date :   09/06/2021
+* Duration : 14 weeks
 
 ## Budget
 * Yet to decide
