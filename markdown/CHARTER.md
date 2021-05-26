@@ -6,7 +6,7 @@
 
 <hr/>
 
-**Budget Information:** $50,460
+**Budget Information:** $70,000
 
 <hr/>
 
