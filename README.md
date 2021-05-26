@@ -69,8 +69,7 @@ Scrum Master:
 * Duration : 14 weeks
 
 ## Budget
-* Yet to decide
-
+* Approximate budget is 60,000$ on an overall project.
 
 
 
