@@ -9,7 +9,7 @@
   * Budget
 
 ## Our Project
-* #### Amigos Gaming Connect is our project name.
+* #### Project Name: Amigos Gaming Connect.
 * Here in this platform people from different locations can connect and communicate for online gaming purpose. Also can create groups as per requirement. It is an user friendly application.
 
 ## Our Team
