@@ -9,7 +9,7 @@
   * Budget
 
 ## Our Project
-* #### Project Name: Amigos Gaming Connect.
+* #### Project Name: Amigos Gaming Connect. <br>  Tag Line: Tired of SoloQ find a Squad here  
 * This is a platform where people can find In game names and Ids of different players. It is an user friendly application.
 
 ## Our Team
