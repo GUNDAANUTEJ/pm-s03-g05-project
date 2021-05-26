@@ -12,6 +12,7 @@
 ## Our Project
 * Digital online Gaming Connect.
 * Here int his platform people from different locations can connect for online gaming purpose. Also can create groups as per requirement. 
+
 ## Our Team
 Product Owner:
  [Gunda Sai Naga Anu Teja](https://github.com/GUNDAANUTEJ)
