@@ -24,4 +24,21 @@
 
 <hr/>
 
+**Approach:** The main objective is to complete the project on time and on budget with the use of agile methodology. 
+
+<hr/>
+
+| Name and Signature | Role | Contact Information |
+| ------------------ | ---- | ------------------- |
+| Sai Naga Anu Teja Gunda | Project Manager | S542408@nwmissouri.edu |
+| Sai Kumar Ganapuram | Scrum Master | S543777@nwmissouri.edu |
+| Sumant Chaganti | Developer | S543695@nwmissouri.edu |
+
+**Signatures:**
+
+### Sai Naga Anu Teja Gunda
+
+### Sai Kumar Ganapuram 
+
+### Sumant Chaganti
 
