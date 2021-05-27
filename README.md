@@ -23,7 +23,7 @@ Scrum Master:
  ---
  Developer: 
  [Chaganti Sumant](https://github.com/sumant52)  <br>
- ![sumant](https://user-images.githubusercontent.com/84100364/119760120-09ccdc00-be6f-11eb-9e3c-021972975b74.jpg) 
+ ![sumant](https://user-images.githubusercontent.com/84100364/119760236-3f71c500-be6f-11eb-8237-0bf04de06e4e.jpg) 
   <br>
 ---
 ## Project Charter [Project Charter link](https://github.com/GUNDAANUTEJ/pm-s03-g05-project/blob/main/markdown/CHARTER.md) 
