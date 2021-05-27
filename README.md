@@ -9,7 +9,7 @@
   * Budget
 
 ## Our Project
-* #### Project Name: Amigos Gaming Connect. <br>  Tag Line: Tired of SoloQ find a Squad here  
+* #### Project Name: Amigos Gaming Connect. <br>  Tag Line: Tired of SoloQ find a Squad here
 * This is a platform where people can find In game names and Ids of different players. It is an user friendly application.
 
 ## Our Team
@@ -27,6 +27,8 @@ Scrum Master:
   <br>
 ---
 ## Project Charter [Project Charter link](https://github.com/GUNDAANUTEJ/pm-s03-g05-project/blob/main/markdown/CHARTER.md) 
+
+
 ----
 
 ## Scope
@@ -63,15 +65,24 @@ Scrum Master:
 *	Performance Testing
 *	Regression Testing
 
+![Screenshot (46)](https://user-images.githubusercontent.com/84100364/119759518-0553f380-be6e-11eb-9680-cf2b42077be8.png)
+
+
 ## Schedule
 * Start Date : 05/31/2021
 * End Date :   09/06/2021
 * Duration : 14 weeks
 
+![Screenshot (44)](https://user-images.githubusercontent.com/84100364/119759211-76df7200-be6d-11eb-9764-8e971a3cbea2.png)
+
+
 ## Budget
 * Total budget is 70,000$ on an overall project.
 
 * [Budget](https://github.com/GUNDAANUTEJ/pm-s03-g05-project/blob/main/budget/budget.xlsx) 
+
+![Screenshot (45)](https://user-images.githubusercontent.com/84100364/119759350-b73ef000-be6d-11eb-9457-1e0f7044a5c5.png)
+
 
 
 
