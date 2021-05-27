@@ -71,7 +71,10 @@ Scrum Master:
 ## Budget
 * Approximate budget is 70,000$ on an overall project.
 * Total Equipment cost is  $5,799.00 
-![image](https://user-images.githubusercontent.com/84100364/119752583-e56b0280-be62-11eb-86f9-7720c2ea60bb.png)
+* Total FTE cost is $51,100.00 
+* Total Budget estimation for a week is $3,050.00 
+* Estimated Profit is $13,101.00
+
 
 
 
