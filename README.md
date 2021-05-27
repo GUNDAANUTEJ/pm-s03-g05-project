@@ -61,7 +61,7 @@ Scrum Master:
 *	Quality Analyste testing
 *	Bug fixes
 ### 5. Closing
-* Deployement
+* Deployment
 *	Performance Testing
 *	Regression Testing
 
