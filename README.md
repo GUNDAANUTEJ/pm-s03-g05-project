@@ -13,13 +13,11 @@
 * This is a platform where people can find In game names and Ids of different players. It is an user friendly application.
 
 ## Our Team
-Product Owner:
- [Gunda Sai Naga Anu Teja](https://github.com/GUNDAANUTEJ) <br>
+## Product Owner: [Gunda Sai Naga Anu Teja](https://github.com/GUNDAANUTEJ) <br>
  <img src="Images/Anutej.jpg" alt="drawing" width="400" style="border-radius:80%" /> <br/>
  ---
  
-Scrum Master:
- [Ganapuram Sai Kumar](https://github.com/SaiKumar249) <br>
+ ## Scrum Master: [Ganapuram Sai Kumar](https://github.com/SaiKumar249) <br>
  <img src="Images/Sai Kumar.png" alt="drawing" width="400" style="border-radius:80%" /> <br/>
  ---
  
