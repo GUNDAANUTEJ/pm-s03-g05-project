@@ -14,17 +14,17 @@
 
 ## Our Team
 Product Owner:
- [Gunda Sai Naga Anu Teja](https://github.com/GUNDAANUTEJ)
+ [Gunda Sai Naga Anu Teja](https://github.com/GUNDAANUTEJ) <br>
  <img src="Images/Anutej.jpg" alt="drawing" width="400" style="border-radius:80%" /> <br/>
  ---
  
 Scrum Master:
- [Ganapuram Sai Kumar](https://github.com/SaiKumar249)
+ [Ganapuram Sai Kumar](https://github.com/SaiKumar249) <br>
  <img src="Images/Sai Kumar.png" alt="drawing" width="400" style="border-radius:80%" /> <br/>
  ---
  
  Developer: 
- [Chaganti Sumant](https://github.com/sumant52) 
+ [Chaganti Sumant](https://github.com/sumant52) <br>
  <img src="Images/Sumanth.jpg" alt="drawing" width="400" style="border-radius:80%" /> <br/>
  
 ---
