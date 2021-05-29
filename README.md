@@ -15,16 +15,16 @@
 ## Our Team
 Product Owner:
  [Gunda Sai Naga Anu Teja](https://github.com/GUNDAANUTEJ)
- <img src="images/Anutej.jpg" alt="drawing" width="400" style="border-radius:80%" /> <br/>
+ <img src="Images/Anutej.jpg" alt="drawing" width="400" style="border-radius:80%" /> <br/>
  ---
 Scrum Master:
  [Ganapuram Sai Kumar](https://github.com/SaiKumar249)
-![Sai Kumar](https://user-images.githubusercontent.com/77635770/119561844-4adbc800-bd6b-11eb-96dc-68d8467c800c.png)
+ <img src="Images/Sai Kumar.png" alt="drawing" width="400" style="border-radius:80%" /> <br/>
  ---
  Developer: 
  [Chaganti Sumant](https://github.com/sumant52)  <br>
- ![sumant](https://user-images.githubusercontent.com/84100364/119760347-71832700-be6f-11eb-9bad-7510c56da8a0.jpg)
-  <br>
+ <img src="Images/Sumanth.jpg" alt="drawing" width="400" style="border-radius:80%" /> <br/>
+ 
 ---
 ## Project Charter [Project Charter link](https://github.com/GUNDAANUTEJ/pm-s03-g05-project/blob/main/markdown/CHARTER.md) 
 
