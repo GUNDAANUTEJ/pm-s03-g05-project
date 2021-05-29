@@ -23,8 +23,7 @@ Scrum Master:
  <img src="Images/Sai Kumar.png" alt="drawing" width="400" style="border-radius:80%" /> <br/>
  ---
  
- ## Developer: 
- [Chaganti Sumant](https://github.com/sumant52) <br>
+ ## Developer: [Chaganti Sumant](https://github.com/sumant52) <br>
  <img src="Images/Sumanth.jpg" alt="drawing" width="400" style="border-radius:80%" /> <br/>
  
 ---
