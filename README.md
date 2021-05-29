@@ -24,7 +24,7 @@ Scrum Master:
  ---
  
  Developer: 
- [Chaganti Sumant](https://github.com/sumant52)  <br>
+ [Chaganti Sumant](https://github.com/sumant52) 
  <img src="Images/Sumanth.jpg" alt="drawing" width="400" style="border-radius:80%" /> <br/>
  
 ---
