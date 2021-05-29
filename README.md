@@ -15,7 +15,7 @@
 ## Our Team
 Product Owner:
  [Gunda Sai Naga Anu Teja](https://github.com/GUNDAANUTEJ)
- ![Anu Tej](https://user-images.githubusercontent.com/77635770/119561184-7c07c880-bd6a-11eb-872e-35c534fe8d19.jpg)
+ <img src="images/Anutej.jpg" alt="drawing" width="400" style="border-radius:80%" /> <br/>
  ---
 Scrum Master:
  [Ganapuram Sai Kumar](https://github.com/SaiKumar249)
