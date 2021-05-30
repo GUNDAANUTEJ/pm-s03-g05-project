@@ -1,4 +1,5 @@
-### Title of the Project: <br> Amigos Gaming Connect
+### Title of the Project: <br> 
+           Amigos Gaming Connect
 
 <hr/>
 
