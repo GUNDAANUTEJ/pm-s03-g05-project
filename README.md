@@ -63,7 +63,7 @@
 *	Performance Testing
 *	Regression Testing
 
-![Screenshot (46)](https://user-images.githubusercontent.com/84100364/119759518-0553f380-be6e-11eb-9680-cf2b42077be8.png)
+![Scope screenshot](https://user-images.githubusercontent.com/84043297/120379188-027d5680-c2e5-11eb-9dc4-35058f9d2efe.png)
 
 
 ## Schedule
