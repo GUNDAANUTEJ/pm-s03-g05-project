@@ -39,6 +39,10 @@
 | Sai Kumar Ganapuram | Scrum Master | S543777@nwmissouri.edu |
 | Sumant Chaganti | Developer | S543695@nwmissouri.edu |
 
+---
+
+### Reference : [Reference Link](https://www.wrike.com/project-management-guide/faq/what-is-a-project-charter-in-project-management/)
+
 ----
 
 ## Signatures:
