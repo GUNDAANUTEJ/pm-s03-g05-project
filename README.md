@@ -80,7 +80,6 @@
 
 * [Budget](https://github.com/GUNDAANUTEJ/pm-s03-g05-project/blob/main/budget/budget.xlsx) 
 
-![Screenshot (45)](https://user-images.githubusercontent.com/84100364/119759350-b73ef000-be6d-11eb-9457-1e0f7044a5c5.png)
 
 
 
