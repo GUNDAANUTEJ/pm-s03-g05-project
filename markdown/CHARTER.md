@@ -28,7 +28,7 @@
 
 ----
 
-### Approach:
+### Point Of View:
    #### * The main objective is to complete the project on time and on budget with the use of agile methodology. 
 
 ----
