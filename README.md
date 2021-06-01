@@ -11,6 +11,9 @@
 ## Our Project
 * #### Project Name: Amigos Gaming Connect. <br>  Tag Line: Tired of SoloQ find a Squad here
 * This is a platform where people can find In game names and Ids of different players. It is an user friendly application.
+* You can find people who play similar games, try and connect with them to team-up.
+* It gonna be easy peasy lemon squeezy to form a squad and push your tire or rank anything.
+
 
 ## Our Team
 ## Product Owner: [Gunda Sai Naga Anu Teja](https://github.com/GUNDAANUTEJ) <br>
