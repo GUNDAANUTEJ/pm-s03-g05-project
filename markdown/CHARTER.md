@@ -18,7 +18,7 @@
 
 ----
 
-### Project Objectives:
+### Project Scope:
    #### * The major objective of the project is to develop and make it easier for the users to communicate and play games in meaningful and user friendly format.
 
 ----
