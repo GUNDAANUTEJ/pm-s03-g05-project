@@ -26,8 +26,6 @@
  
 ---
 ## Project Charter [Project Charter link](https://github.com/GUNDAANUTEJ/pm-s03-g05-project/blob/main/markdown/CHARTER.md) 
-![Budget Screenshot ](https://user-images.githubusercontent.com/84043297/120378343-e9c07100-c2e3-11eb-8e6c-495d61b14e69.png)
-
 
 ----
 
