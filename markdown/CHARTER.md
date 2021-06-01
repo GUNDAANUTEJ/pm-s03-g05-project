@@ -23,7 +23,7 @@
 
 ----
 
-### Success Criteria: 
+### Success Objective: 
    #### * The project destination is to create a platform where to develop the connecting formats for people who are in remote locations. 
 
 ----
