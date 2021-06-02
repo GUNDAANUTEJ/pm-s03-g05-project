@@ -9,24 +9,27 @@
   * Budget
 
 ## Our Project
-* #### Project Name: Amigos Gaming Connect. <br>  Tag Line: Tired of SoloQ find a Squad here  
+* #### Project Name: Amigos Gaming Connect. <br>  Tag Line: Tired of SoloQ find a Squad here
 * This is a platform where people can find In game names and Ids of different players. It is an user friendly application.
+* You can find people who play similar games, try and connect with them to team-up.
+* It gonna be easy peasy lemon squeezy to form a squad and push your tire or rank anything.
+
 
 ## Our Team
-Product Owner:
- [Gunda Sai Naga Anu Teja](https://github.com/GUNDAANUTEJ)
- ![Anu Tej](https://user-images.githubusercontent.com/77635770/119561184-7c07c880-bd6a-11eb-872e-35c534fe8d19.jpg)
+## Product Owner: [Gunda Sai Naga Anu Teja](https://github.com/GUNDAANUTEJ) <br>
+ <img src="Images/Anutej.jpg" alt="drawing" width="400" style="border-radius:80%" /> <br/>
  ---
-Scrum Master:
- [Ganapuram Sai Kumar](https://github.com/SaiKumar249)
-![Sai Kumar](https://user-images.githubusercontent.com/77635770/119561844-4adbc800-bd6b-11eb-96dc-68d8467c800c.png)
+ 
+ ## Scrum Master: [Ganapuram Sai Kumar](https://github.com/SaiKumar249) <br>
+ <img src="Images/Sai Kumar.png" alt="drawing" width="400" style="border-radius:80%" /> <br/>
  ---
- Developer: 
- [Chaganti Sumant](https://github.com/sumant52)  <br>
-  ![ChagantiSumant](https://user-images.githubusercontent.com/77635770/119560258-53330380-bd69-11eb-8708-3d81536a7027.jpg) 
-  <br>
+ 
+ ## Developer: [Chaganti Sumant](https://github.com/sumant52) <br>
+ <img src="Images/Sumanth.jpg" alt="drawing" width="400" style="border-radius:80%" /> <br/>
+ 
 ---
 ## Project Charter [Project Charter link](https://github.com/GUNDAANUTEJ/pm-s03-g05-project/blob/main/markdown/CHARTER.md) 
+
 ----
 
 ## Scope
@@ -59,17 +62,30 @@ Scrum Master:
 *	Quality Analyste testing
 *	Bug fixes
 ### 5. Closing
-* Deployement
+* Deployment
 *	Performance Testing
 *	Regression Testing
+
+![Scope screenshot](https://user-images.githubusercontent.com/84043297/120379188-027d5680-c2e5-11eb-9dc4-35058f9d2efe.png)
+
 
 ## Schedule
 * Start Date : 05/31/2021
 * End Date :   09/06/2021
 * Duration : 14 weeks
 
+![Screenshot (44)](https://user-images.githubusercontent.com/84100364/119759211-76df7200-be6d-11eb-9764-8e971a3cbea2.png)
+
+
 ## Budget
-* Yet to decide
+* Total budget is 70,000$ on an overall project.
+
+* [Budget](https://github.com/GUNDAANUTEJ/pm-s03-g05-project/blob/main/budget/budget.xlsx) 
+* 
+![Budget Screenshot ](https://user-images.githubusercontent.com/84043297/120378367-f2b14280-c2e3-11eb-9b8a-a114c6d87020.png)
+
+
+
 
 
 
