@@ -81,7 +81,7 @@
 * Total budget is 70,000$ on an overall project.
 
 * [Budget](https://github.com/GUNDAANUTEJ/pm-s03-g05-project/blob/main/budget/budget.xlsx) 
-* 
+
 ![Budget Screenshot ](https://user-images.githubusercontent.com/84043297/120378367-f2b14280-c2e3-11eb-9b8a-a114c6d87020.png)
 
 
