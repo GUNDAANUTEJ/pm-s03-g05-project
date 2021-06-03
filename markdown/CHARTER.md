@@ -14,7 +14,7 @@
 
 ### Project Manager: Sai Naga Anu Teja Gunda <br>
 ### Phone Contact: 660-528-0418   <br>
-### E-mail:** S542408@nwmissouri.edu 
+### E-mail: S542408@nwmissouri.edu 
 
 ----
 
