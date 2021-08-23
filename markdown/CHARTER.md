@@ -14,7 +14,7 @@
 
 ### Project Manager: Sai Naga Anu Teja Gunda <br>
 ### Phone Contact: 660-528-0418   <br>
-### E-mail:** S542408@nwmissouri.edu 
+### E-mail: S542408@nwmissouri.edu 
 
 ----
 
@@ -41,7 +41,9 @@
 
 ---
 
-### Reference : [Reference Link](https://www.wrike.com/project-management-guide/faq/what-is-a-project-charter-in-project-management/)
+### Reference : 
+[Reference Link 1](https://www.wrike.com/project-management-guide/faq/what-is-a-project-charter-in-project-management/) 
+[Reference Link 2](https://github.com/harshakurra123/pm-s04-g02-project/blob/main/charter.md)
 
 ----
 

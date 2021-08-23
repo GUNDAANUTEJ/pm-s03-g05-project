@@ -35,36 +35,36 @@
 ## Scope
 ### Work Breakdown Structure
 ### 1. Initiating
-* Requirement gathering
-*	List out main functionalities
-* List out additional functionalities
-*	List out key features
-*	Architecture 
-*	Meetings
+* 1.1 Requirement gathering
+*	1.2 List out main functionalities
+* 1.3 List out additional functionalities
+*	1.4 List out key features
+*	1.5 Architecture 
+*	1.6 Meetings
 ### 2.Planning
-* Budget planning
-*	Choosing the technologies
-*	Estimating the resources
-*	Plan the project schedule
-*	Set goals
-*	Define the mvp
-*	Plan sprints
-*	Divide the functionalities and features into user stories
+* 2.1 Budget planning
+*	2.2 Choosing the technologies
+*	2.3 Estimating the resources
+*	2.4 Plan the project schedule
+*	2.5 Set goals
+*	2.6 Define the mvp
+*	2.7 Plan sprints
+*	2.8 Divide the functionalities and features into user stories
 ### 3. Execution
-* Set up a meeting with the human resources and explain the scope of the project
-*	Start development
-*	Unit Testing
-*	Sprint meetings
-*	Drops
+* 3.1 Set up a meeting with the human resources and explain the scope of the project
+*	3.2 Start development
+*	3.3 Unit Testing
+*	3.4 Sprint meetings
+*	3.5 Drops
 ### 4. Monitering and Controlling
-*	Integration Testing
-*	Scrum of scrums
-*	Quality Analyste testing
-*	Bug fixes
+*	4.1 Integration Testing
+*	4.2 Scrum of scrums
+*	4.3 Quality Analyste testing
+*	4.4 Bug fixes
 ### 5. Closing
-* Deployment
-*	Performance Testing
-*	Regression Testing
+* 5.1 Deployment
+*	5.2 Performance Testing
+*	5.3 Regression Testing
 
 ![Scope screenshot](https://user-images.githubusercontent.com/84043297/120379188-027d5680-c2e5-11eb-9dc4-35058f9d2efe.png)
 
@@ -81,7 +81,7 @@
 * Total budget is 70,000$ on an overall project.
 
 * [Budget](https://github.com/GUNDAANUTEJ/pm-s03-g05-project/blob/main/budget/budget.xlsx) 
-* 
+
 ![Budget Screenshot ](https://user-images.githubusercontent.com/84043297/120378367-f2b14280-c2e3-11eb-9b8a-a114c6d87020.png)
 
 
